@@ -1,0 +1,14 @@
+streamlit
+pandas
+numpy
+scipy
+scikit-learn
+statsmodels
+pymc
+arviz
+lifelines
+xgboost
+lightgbm
+shap
+langchain-openai
+langchain-core
